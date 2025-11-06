@@ -75,7 +75,7 @@ Soy **Desarrollador Full Stack Senior** con más de **19+ años de experiencia p
 
 📧 **[avalontm21@gmail.com](mailto:avalontm21@gmail.com)**  
 🌐 **[avalontm.info](https://avalontm.info)**  
-💼 [LinkedIn (opcional)](https://linkedin.com/in/avalontm)  
+💼 [LinkedIn]([https://linkedin.com/in/avalontm](https://www.linkedin.com/in/raul-mendez-754b65111/))  
 
 ---
 
