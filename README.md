@@ -19,7 +19,7 @@ https://github.com/avalontm
 
 ## 🧠 Sobre Mí
 
-Soy **Desarrollador Full Stack Senior** con más de **19+ años de experiencia profesional** construyendo soluciones empresariales, sistemas interactivos, aplicaciones multiplataforma y videojuegos.  
+Soy **Desarrollador Full Stack Senior** con más de **24+ años de experiencia profesional** construyendo soluciones empresariales, sistemas interactivos, aplicaciones multiplataforma y videojuegos.  
 
 💡 Me apasiona combinar creatividad con ingeniería:  
 - Construyo **aplicaciones robustas** y **interfaces modernas**.  
